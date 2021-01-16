@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "name": "WandaVision (2021)",
+      "rating": "8.5",
+      "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+      "id": 1
+    },
+    {
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+      "name": "Outside the Wire (2021)",
+      "rating": "6.1",
+      "overview": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+      "id": 2
+    },
+    {
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "name": "News of the World (2020)",
+      "rating": "7.4",
+      "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+      "id": 3
+    },
+    {
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLyRtGJWH4AHe5DZxtneTLIwtls.jpg",
+      "name": "One Night in Miami... (2021)",
+      "rating": "7.6",
+      "overview": "In the aftermath of Cassius Clay's defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.",
+      "id": 4
+    },
+    {
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg",
+      "name": "Locked Down (2021)",
+      "rating": "0",
+      "overview": "Set against the backdrop of the COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world’s most exclusive department stores, Harrods.",
+      "id": 5
+    },
+    {
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg",
+      "name": "The Stand (2020)",
+      "rating": "7.2",
+      "overview": "In a world mostly wiped out by the plague and embroiled in an elemental struggle between good and evil, the fate of mankind rests on the frail shoulders of the 108-year-old Mother Abagail and a handful of survivors. Their worst nightmares are embodied in a man with a lethal smile and unspeakable powers: Randall Flagg, the Dark Man.",
+      "id": 6
+    }
+  ]
+}
